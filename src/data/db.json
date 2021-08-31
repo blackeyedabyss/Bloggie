@@ -1,22 +1,34 @@
 {
-    "blogs":[
-            {
-            "title": "My first ever blog: College Life", 
-            "body": "To avoid offending too many people, let me start off with a clarification. Whatever generalisations I make are exactly that: generalisations. They apply on the collective, and not to anyone specifically. As a child, I never studied. It was such a hateful task. Memorizing pages and pages of weird stuff. My teachers would instil hope in my parents by calling me ‘smart’. Then they would turn them against me by labelling me ‘lazy’. Each class would have a group of ‘exceptional’ students, whose scores would be displayed on the black board during a parents-teachers meeting. Conveniently put up for comparison.So after the end of an exam, I would find myself sheepishly looking at the floor while my parents wondered how on Earth would their son ‘Stand on his feet’. I was hoping that this would pass in time, like plagues usually do. If anything, the feeling intensified. Rote learners pretended they weren’t while parents and teachers discussed the ‘brilliance’ of 13 year olds for hours together.", 
-            "author": "Yash G.",
-             "id":1
-            },
-            {
-             "title": "My learnings while learning FullStack JavaScript",
-             "body": "No, Programming is not difficult. Neither learning any programming is difficult. And, you do not need to be a genius to learn programming. Every programming language has its scope and you can delve into it based on the interest or industry you want to prefer. Whether you want to learn C,Java,Python or Web Designing based language the key thing is how to start and practice it regularly. Most of the students don't follow and do programming because of the following reasons: They are not taught programming basics in class properly; They do not know the standard book to start with; They don't have lab instructor or teacher to teach them how to write a good code; Students are more ready to talk about football scores and less about coding and developing or creating something to shaping themselves and the industry. Things you should do: Always follow a good standard book; Do code regularly; Start from easier programs to hard programs; Do make programs based on practical and logical approach; Learn to syntax the code; Learn to write a good code; Do code regularly; Join a good institute, if necessary; Make a community if you are in college. Engage juniors to seniors and have your own classes, teach and learn; Got problems, visit stack exchange or paste code and send to someone you know who is good at coding and happy to help;  Feeling amateur, go online and test your skills on code chef, hacker rank; Take projects; Watch good movies and read good novels and have fun along; programming is for everyone, everyone can learn, all you need is small steps.", 
-             "author": "Ushma S.",
-              "id":2
-            },
-            {
-            "title": "How I dealt with Imposter syndrome: My Story.", 
-            "body": "Have you ever felt like you’re not good enough to do the job you’ve been hired to do — and that your boss might figure it out at any moment? Or maybe you’ve felt like you’re only pretending to be an adult who’s capable of buying a home or raising a human child, even though everyone else you know has it totally figured out. Spoiler alert: Most other people have felt this way too. No matter how much evidence there is that we’re successfully navigating our lives, jobs and relationships, many of us hold false beliefs that we aren’t actually as capable or smart as others think we are. This is called imposter syndrome, or imposter phenomenon. It isn’t a diagnosis or a medical problem but rather a pattern of thinking that can lead to self-doubt, negative self-talk and missed opportunities. It’s the feeling that everyone else knows exactly what they’re doing, but you feel lost,” explains psychologist Susan Albers, PsyD. “You have this fear that the people around you are going to figure out that you don’t know what you’re talking about and expose you as a fraud. The worst part about imposter syndrome? It can easily turn into a cycle with seriously negative consequences. But recognizing it and having the tools to get past it can stop you from getting in your own way.", 
-            "author": "Rhythm A.",
-             "id":3
-             }
-    ]
+  "blogs": [
+    {
+      "title": "My first ever blog: College Life",
+      "body": "To avoid offending too many people, let me start off with a clarification. Whatever generalisations I make are exactly that: generalisations. They apply on the collective, and not to anyone specifically. As a child, I never studied. It was such a hateful task. Memorizing pages and pages of weird stuff. My teachers would instil hope in my parents by calling me ‘smart’. Then they would turn them against me by labelling me ‘lazy’. Each class would have a group of ‘exceptional’ students, whose scores would be displayed on the black board during a parents-teachers meeting. Conveniently put up for comparison.So after the end of an exam, I would find myself sheepishly looking at the floor while my parents wondered how on Earth would their son ‘Stand on his feet’. I was hoping that this would pass in time, like plagues usually do. If anything, the feeling intensified. Rote learners pretended they weren’t while parents and teachers discussed the ‘brilliance’ of 13 year olds for hours together.",
+      "author": "Yash G.",
+      "id": 1
+    },
+    {
+      "title": "My learnings while learning FullStack JavaScript",
+      "body": "No, Programming is not difficult. Neither learning any programming is difficult. And, you do not need to be a genius to learn programming. Every programming language has its scope and you can delve into it based on the interest or industry you want to prefer. Whether you want to learn C,Java,Python or Web Designing based language the key thing is how to start and practice it regularly. Most of the students don't follow and do programming because of the following reasons: They are not taught programming basics in class properly; They do not know the standard book to start with; They don't have lab instructor or teacher to teach them how to write a good code; Students are more ready to talk about football scores and less about coding and developing or creating something to shaping themselves and the industry. Things you should do: Always follow a good standard book; Do code regularly; Start from easier programs to hard programs; Do make programs based on practical and logical approach; Learn to syntax the code; Learn to write a good code; Do code regularly; Join a good institute, if necessary; Make a community if you are in college. Engage juniors to seniors and have your own classes, teach and learn; Got problems, visit stack exchange or paste code and send to someone you know who is good at coding and happy to help;  Feeling amateur, go online and test your skills on code chef, hacker rank; Take projects; Watch good movies and read good novels and have fun along; programming is for everyone, everyone can learn, all you need is small steps.",
+      "author": "Ushma S.",
+      "id": 2
+    },
+    {
+      "title": "How I dealt with Imposter syndrome: My Story.",
+      "body": "Have you ever felt like you’re not good enough to do the job you’ve been hired to do — and that your boss might figure it out at any moment? Or maybe you’ve felt like you’re only pretending to be an adult who’s capable of buying a home or raising a human child, even though everyone else you know has it totally figured out. Spoiler alert: Most other people have felt this way too. No matter how much evidence there is that we’re successfully navigating our lives, jobs and relationships, many of us hold false beliefs that we aren’t actually as capable or smart as others think we are. This is called imposter syndrome, or imposter phenomenon. It isn’t a diagnosis or a medical problem but rather a pattern of thinking that can lead to self-doubt, negative self-talk and missed opportunities. It’s the feeling that everyone else knows exactly what they’re doing, but you feel lost,” explains psychologist Susan Albers, PsyD. “You have this fear that the people around you are going to figure out that you don’t know what you’re talking about and expose you as a fraud. The worst part about imposter syndrome? It can easily turn into a cycle with seriously negative consequences. But recognizing it and having the tools to get past it can stop you from getting in your own way.",
+      "author": "Rhythm A.",
+      "id": 3
+    },
+    {
+      "title": "Yo.",
+      "body": "Yo.",
+      "author": "Yash G.",
+      "id": 4
+    },
+    {
+      "title": "Yo, Pt. II.",
+      "body": "Yo.",
+      "author": "Ushma S.",
+      "id": 5
+    }
+  ]
 }
