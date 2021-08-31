@@ -6,7 +6,7 @@ Tech Stack used / Techniques Applied: React, CSS, React Router, React Hooks (use
 
 A quick demo can be seen here: https://youtu.be/ScEk2utzQjs
 
-Quick note: I use this command in the project directory to connect to the JSON Server: npx json-server --watch .\src\data\db.json --port 8000
+Quick note: I use this command in the project directory to connect to the JSON Server: ### npx json-server --watch .\src\data\db.json --port 8000
 
 ## Getting Started with Create React App
 
