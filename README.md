@@ -1,4 +1,4 @@
-#Bloggie
+# Bloggie
 
 Bloggie is a React based Blog Application, wherein, an end user can read blogs, add new blogs, delete blogs, with the advantage of the blogs being text based! 😊 This gives a user a retro experience, with a minimalistic look on the front end. 
 
@@ -8,7 +8,7 @@ A quick demo can be seen here: https://youtu.be/ScEk2utzQjs
 
 Quick note: I use this command in the project directory to connect to the JSON Server: npx json-server --watch .\src\data\db.json --port 8000
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
